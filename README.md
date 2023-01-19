@@ -1,12 +1,60 @@
-<h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">I create software in Java and C#!</h3>
 
-<h3 align="left">Im familliear with:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ # Hi there 👋 
+ </div>  
+<p align="justify"> 
+welcome to my GitHub Page. My name is furkan and I am an passionate software developer. My favorite programming languages are Java 17 and C# 10. Currently I am a student and have the intention to work as a software developer in the future. I started developing Minecraft plugins when I was eleven years old and taught myself the programming languages for the most part.
+ 
+
+</p>
+
+## My favorite tools and technologies ⚙️ 
+
+> Tools and technologies that I have worked with and am interested in
+
+<table>
+  <tr>
+                     <td align="center" width="96">
+        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.netgen.co.za%2Fwp-content%2Fuploads%2F2022%2F03%2FC-image-for-Netgen-1024x1024.png&sp=1674154667T53753e87dadac24f5e18eac96bf8a143f5a8e37f95363f9f65f72fd8feafb015" width="48" height="48" alt="c#" />
+      <br>C#
+    </td>
+                     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons/?i=java" width="48" height="48" alt="java" />
+      <br>Java
+    </td>
+            <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
+      <br>redis
+    </td>
+                <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>MySQL
+    </td>
+ 
+  </tr>
+ </tr>
+</table>
 
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+## Github stats 📊 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nichtfurkan&show_icons=true&theme=dark&hide_border=true&locale=de" alt="nichtfurkan" /></p>
+<details> 
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nichtfurkan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=nichtfurkan&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nichtfurkan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichtfurkan&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
 
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=nichtfurkan&label=PROFILE+VIEWS&style=for-the-badge&color=red">
+
+</details>
+
+## GitHub Profile Trophies 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=nichtfurkan&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
