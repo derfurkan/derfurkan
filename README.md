@@ -14,7 +14,7 @@ welcome to my GitHub Page. My name is furkan currently i am 17 Years old and a p
 <table>
   <tr>
                      <td align="center" width="96">
-        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.netgen.co.za%2Fwp-content%2Fuploads%2F2022%2F03%2FC-image-for-Netgen-1024x1024.png&sp=1674154667T53753e87dadac24f5e18eac96bf8a143f5a8e37f95363f9f65f72fd8feafb015" width="48" height="48" alt="c#" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="48" height="48" alt="c#" />
       <br>C#
     </td>
                      <td align="center" width="96">
