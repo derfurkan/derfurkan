@@ -2,7 +2,7 @@
  # Hi there 👋 
  </div>  
 <p align="justify"> 
-welcome to my GitHub Page. My name is furkan currently i am 17 Years old and passionate software developer from Germany. My favorite programming languages are Java 17 and C# 10. Currently I am a student and have the intention to work as a software developer in the future. I started developing Minecraft plugins when I was eleven years old and taught myself the programming languages for the most part.
+welcome to my GitHub Page. My name is furkan currently i am 17 Years old and a passionate software developer from Germany. My favorite programming languages are Java 17 and C# 10. Currently I am a student and have the intention to work as a software developer in the future. I started developing Minecraft plugins when I was eleven years old and taught myself the programming languages for the most part.
  
 
 </p>
