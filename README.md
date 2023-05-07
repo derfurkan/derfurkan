@@ -2,7 +2,7 @@
  # Hi there 👋 
  </div>  
 <p align="justify"> 
-welcome to my GitHub Page. My name is furkan currently i am 17 Years old and a passionate software developer from Germany. My favorite programming languages are Java and C#. Currently I am a student and have the intention to work as a software developer in the future.
+welcome to my GitHub Page. My name is furkan currently i am 17 Years old and a passionate software developer from Germany.</br>Currently I am a student and have the intention to work as a software developer in the future.
  
 
 </p>
@@ -37,24 +37,3 @@ welcome to my GitHub Page. My name is furkan currently i am 17 Years old and a p
   </tr>
  </tr>
 </table>
-
-
-## Github stats 📊 
-
-<details> 
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="derfurkan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=derfurkan&show_icons=true&count_private=true&theme=darcula&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="derfurkan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derfurkan&langs_count=8&layout=compact&theme=darcula&hide_border=true&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=derfurkan&label=PROFILE+VIEWS&style=for-the-badge&color=red">
-
-</details>
-
-## GitHub Profile Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=derfurkan&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
