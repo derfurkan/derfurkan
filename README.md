@@ -1,39 +1,51 @@
+<div align="left">
+  <h1>Hi there 👋</h1>
+  <p>Welcome to my GitHub Page. I'm Furkan, an 18-year-old passionate software developer from Germany<br>with the intention to work as a software developer in the future.</p>
+</div>
 
- # Hi there 👋 
- </div>  
-<p align="justify"> 
-welcome to my GitHub Page. My name is furkan currently i am 18 Years old and a passionate software developer from Germany.</br>Currently I am a student and have the intention to work as a software developer in the future.
- 
+<br>
 
-</p>
+## Tools and technologies that I have worked with ⚙️
 
-## My favorite tools and technologies ⚙️ 
-
-> Tools and technologies that I have worked with and am interested in
-
-<table>
+<table align="center">
   <tr>
-                     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="48" height="48" alt="c#" />
-      <br>C#
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons/?i=idea" width="64" height="64" alt="IntelliJ Idea" />
+      <br><strong>IntelliJ Idea</strong>
     </td>
-                     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons/?i=java" width="48" height="48" alt="java" />
-      <br>Java
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons/?i=visualstudio" width="64" height="64" alt="Visual Studio" />
+      <br><strong>Visual Studio</strong>
     </td>
-            <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
+       <td align="center" width="140">
+      <img src="https://skillicons.dev/icons/?i=docker" width="64" height="64" alt="Docker" />
+      <br><strong>Docker</strong>
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
-      <br>redis
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=github" width="64" height="64" alt="GitHub" />
+      <br><strong>GitHub</strong>
     </td>
-                <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>MySQL
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=redis" width="64" height="64" alt="Redis" />
+      <br><strong>Redis</strong>
     </td>
- 
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=mysql" width="64" height="64" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons/?i=notion" width="64" height="64" alt="Notion" />
+      <br><strong>Notion</strong>
+    </td>
   </tr>
- </tr>
 </table>
+
+<br>
+
+## Contact 📩
+
+If you have any questions or would like to get in touch, feel free to contact me via:
+
+- <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="15"> Email: [arik_furkan@proton.me](mailto:arik_furkan@proton.me)
+- <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="15"> Twitter/X: [@DerFurkan](https://twitter.com/DerFurkan129896)
+- <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="15"> Discord: furkan.4554
