@@ -1,44 +1,21 @@
-<div align="left">
+<div align="center">
   <h1>Hi there 👋</h1>
-  <p>Welcome to my GitHub Page. I'm Furkan, an 18-year-old passionate software developer from Germany<br>with the intention to work as a software developer in the future.</p>
+  <p>Welcome to my GitHub Page. I'm Furkan, an 18-year-old passionate software developer from Germany with the intention to work as a software developer in the future.</p>
 </div>
 
 <br>
 
-## Tools and technologies that I have worked with ⚙️
+## 🔧 Technologies & Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons/?i=idea" width="64" height="64" alt="IntelliJ Idea" />
-      <br><strong>IntelliJ Idea</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons/?i=visualstudio" width="64" height="64" alt="Visual Studio" />
-      <br><strong>Visual Studio</strong>
-    </td>
-       <td align="center" width="140">
-      <img src="https://skillicons.dev/icons/?i=docker" width="64" height="64" alt="Docker" />
-      <br><strong>Docker</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=github" width="64" height="64" alt="GitHub" />
-      <br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=redis" width="64" height="64" alt="Redis" />
-      <br><strong>Redis</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=mysql" width="64" height="64" alt="MySQL" />
-      <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons/?i=notion" width="64" height="64" alt="Notion" />
-      <br><strong>Notion</strong>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons/?i=idea" width="64" height="64" alt="IntelliJ Idea" />
+  <img src="https://skillicons.dev/icons/?i=visualstudio" width="64" height="64" alt="Visual Studio" />
+  <img src="https://skillicons.dev/icons/?i=docker" width="64" height="64" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=github" width="64" height="64" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=redis" width="64" height="64" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="64" height="64" alt="MySQL" />
+  <img src="https://skillicons.dev/icons/?i=notion" width="64" height="64" alt="Notion" />
+</div>
 
 <br>
 
