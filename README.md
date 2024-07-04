@@ -11,6 +11,5 @@
 ## Contact 📩
 If you have any questions or would like to get in touch, feel free to contact me via:
 
-- <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="15"> Email: [arik_furkan@proton.me](mailto:arik_furkan@proton.me)
-- <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="15"> Twitter/X: [@DerFurkan](https://twitter.com/DerFurkan129896)
+- <img src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" alt="Email" width="15"> Email: [arik_furkan@proton.me](mailto:arik_furkan@proton.me)
 - <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="15"> Discord: derfurkan
