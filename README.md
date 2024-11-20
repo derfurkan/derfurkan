@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋</h1>
-  <a>Welcome to my GitHub Page. I'm Furkan, an 20-year-old passionate software developer from Germany.</a><br>
+  <a>Welcome to my GitHub Page. I'm Furkan, an 18-year-old passionate software developer from Germany.</a><br>
   <a>My goal with this passion is to create software and technologies that will help people around the globe.</a>
 <br>
 <br>
